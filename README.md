@@ -347,8 +347,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 **Full-Stack Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-OM--ALONI-181717?style=for-the-badge&logo=github)](https://github.com/OM-ALONI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Aloni-0077B5?style=for-the-badge&logo=linkedin)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Aloni-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-anil-badgujar/)
+
 
 </div>
 
